@@ -1,0 +1,20 @@
+Dead Space 2 Seamless Texture Compatibility 1.0.0
+
+Automatically loads compatible TexMod .tpf texture packs when you start the original Dead Space 2 through Steam.
+Texture packs and TexMod are not included in this ZIP.
+
+INSTALL
+1. Close the game. Extract this ZIP into the folder containing deadspace2.exe, or install it with a Dead Space 2 Vortex game-support extension that deploys files to that folder.
+2. Put your separately downloaded .tpf texture packs in a "TexMod Packages" folder beside deadspace2.exe. Follow each pack author's instructions.
+3. Start Dead Space 2 with Steam's normal Play button. On first use, the mod may ask to download and verify the original TexMod 0.9b. Later launches are automatic.
+
+If your game folder already has version.dll, resolve that mod conflict before installing. Do not overwrite someone else's version.dll.
+
+REMOVE
+With Vortex, disable this mod and deploy or purge it. For manual removal, close the game and remove only version.dll, DS2TextureLauncher.exe, DS2SeamlessTextures.json and the DS2STC-docs folder from this ZIP. Leave your texture packs, TexMod, other mods, game files and saves alone.
+
+HELP
+Logs: %LOCALAPPDATA%\Rama2120\DS2SeamlessTextures\latest.log
+This release was tested with the original Steam version. Steam Overlay may not open with Shift+Tab. Other storefront versions have not been tested.
+
+Project code is MIT licensed. See LICENSE.txt and MINHOOK-LICENSE.txt in this folder for notices.
