@@ -1,0 +1,270 @@
+{
+  "package": "DeadSpace2SeamlessTextureCompatibility-v1.0.0",
+  "files": [
+    {
+      "path": "build.ps1",
+      "bytes": 3093,
+      "sha256": "538a79116fbb60a24ec9f63a18f9b052d8ad2e06b5be6e14cfec20fcb2ba644e"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 3555,
+      "sha256": "2e63ea790511325005f32d52581cc9dfbb66326acb530e293e20fa13ed5ec527"
+    },
+    {
+      "path": "docs/BUILD.md",
+      "bytes": 2337,
+      "sha256": "cfbe1f1367e9ef8653f57ffaa5fa50f1768812a52860afc27132671e7bec2346"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "bytes": 4443,
+      "sha256": "d6552914fe20e9deaa8fd3a40d7037e936c4667cef2c2002b1b6c3218a6fb096"
+    },
+    {
+      "path": "docs/CONFIGURATION.md",
+      "bytes": 3428,
+      "sha256": "691f26260b64581ba084aba00ce5d087fa1cd2c5af8dc91942d510310847d300"
+    },
+    {
+      "path": "docs/INSTALL.txt",
+      "bytes": 1457,
+      "sha256": "dc6af3982b0052f27beaade8bc47f68df7cfdeda774645d3037e67e027a0d146"
+    },
+    {
+      "path": "docs/NEXUS-DESCRIPTION.md",
+      "bytes": 3952,
+      "sha256": "0831a9550d2d2e6a7cb8eca1f91468ee067b89216862a5f007601ce3566fbae1"
+    },
+    {
+      "path": "docs/RELEASE-TEST-REPORT.md",
+      "bytes": 5382,
+      "sha256": "1a7d847e5214ec39d7eca885f78c902d9e1c6696b9031fca6586b4cb8af58150"
+    },
+    {
+      "path": "docs/THIRD-PARTY.md",
+      "bytes": 1691,
+      "sha256": "0f9c402435455be83d4e051b4f58d7a29fae5286f210c458ad1224d7d16636c2"
+    },
+    {
+      "path": "docs/TROUBLESHOOTING.md",
+      "bytes": 3095,
+      "sha256": "c12693569e8d19240865aa3871f9d2ddc6086f50b75f820f8bfaa222b5dd9e5f"
+    },
+    {
+      "path": "DS2SeamlessTextures.json",
+      "bytes": 227,
+      "sha256": "723b03efb9f46d3d5412bd491db7c6c38075732e8387023dcf49ef6cba448326"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 1065,
+      "sha256": "1430216377886d27872861381a65721a24f4f289dae1b673ed62398b0327c7dc"
+    },
+    {
+      "path": "native/Bootstrap.cpp",
+      "bytes": 3826,
+      "sha256": "9c1ae9be33a3fd646d9b59d5d3eabdf751846af4d87d34949c3b341f3ee83e7d"
+    },
+    {
+      "path": "native/DdsPixels.h",
+      "bytes": 1489,
+      "sha256": "4dcc7a88da778687f3189db0f1c552d3b7d43787b23a5952f7c5dbba6afcacd7"
+    },
+    {
+      "path": "native/TextureTrace.h",
+      "bytes": 10180,
+      "sha256": "9619a0dc13adefa5eb108e747a12656d5cdf1e55e8b6f575f67964d053aa4c06"
+    },
+    {
+      "path": "native/version.def",
+      "bytes": 826,
+      "sha256": "4d8ec13e2351f7d41cff65c1730bc7f58551c08200172f9c0082ad9619bb9827"
+    },
+    {
+      "path": "native/VersionBootstrap.cpp",
+      "bytes": 6119,
+      "sha256": "cffe6ba461dab38f3fcab4547da13ab251b7918ea6aaf36dc2e1e50654c80a95"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5622,
+      "sha256": "66a1fdaa06710cc3ee6200855646a3b34797b482043714fb90ab2d4dd49906eb"
+    },
+    {
+      "path": "src/app.manifest",
+      "bytes": 1208,
+      "sha256": "0bdc46e4a7529ec60f7041d188bf796e5eb53fe2550d05c7868858499b5c64db"
+    },
+    {
+      "path": "src/DdsPixels.cs",
+      "bytes": 2186,
+      "sha256": "e600d77100e8c7280fadc620d4907cf2143707793af20187d23e9dfad0decdf0"
+    },
+    {
+      "path": "src/LauncherException.cs",
+      "bytes": 284,
+      "sha256": "3ac7e0e58621eaa6389fe3a99d8f02f82794181717594253c072f2459cefc49a"
+    },
+    {
+      "path": "src/NativeMethods.cs",
+      "bytes": 8061,
+      "sha256": "b8ca9031f94538b2263473cb000b7fe6acc01f5b1a90c82a8df831d1617b984a"
+    },
+    {
+      "path": "src/PackageCatalog.cs",
+      "bytes": 8689,
+      "sha256": "183445477c3125754bf339cd675aeb2705f8d89a49a572833ead4811e0da98e9"
+    },
+    {
+      "path": "src/Runtime.cs",
+      "bytes": 9649,
+      "sha256": "872a8eef5ddeee298573e6d426fd5adf4cddc0d5348e9e41468daccea575e07d"
+    },
+    {
+      "path": "src/RuntimeLogTail.cs",
+      "bytes": 1986,
+      "sha256": "a2b2df12d61da757a9f890d7adade62229a574cb8b119d3d312c46b802784c47"
+    },
+    {
+      "path": "src/TexModAcquisition.cs",
+      "bytes": 4498,
+      "sha256": "83bee928c82ef9bf53fdce88dd455acf767a1e4b3203e90728f35054dbc02c7f"
+    },
+    {
+      "path": "src/TexModAutomation.cs",
+      "bytes": 23826,
+      "sha256": "b2752ac168e35d1f7f15f6784fa884083d4f4c39b257fcf2e85d07b5bc51c22c"
+    },
+    {
+      "path": "src/TexModList.cs",
+      "bytes": 2904,
+      "sha256": "49e8e94bb4ae0775fb4e4e67c60b73782053306693f7dfd45e708e11bd27e691"
+    },
+    {
+      "path": "src/TpfValidator.cs",
+      "bytes": 11939,
+      "sha256": "a5737816b6b89ab3a0fad7431d24e104cec5ca662620871dc1204ffc361dcf23"
+    },
+    {
+      "path": "tests/dds-golden.json",
+      "bytes": 1532,
+      "sha256": "440e1f47c4fb2501f316ecbba21e7a2c1aa181bbbd74b9c7f681e478c011afeb"
+    },
+    {
+      "path": "tests/graphics.ps1",
+      "bytes": 2734,
+      "sha256": "fd309aca89c69b82ed84699e2483d23e7116720bea2f0e9d7a9b0f21fb4dd9ae"
+    },
+    {
+      "path": "tests/GraphicsHost.cpp",
+      "bytes": 4087,
+      "sha256": "238aecf08d50ae90bad5dd617509253da7d779cc8747b42ec71fe9ba16b7ea97"
+    },
+    {
+      "path": "tests/LauncherStub.cpp",
+      "bytes": 179,
+      "sha256": "7a5925908c4009ccd41b3bd8ecfedf3615869dc87a8b4dde5ca562e5a094ffb1"
+    },
+    {
+      "path": "tests/native.ps1",
+      "bytes": 3515,
+      "sha256": "cbe25965852a36ffc8ae7ad36aed82f04279046544ce9f816c0dd84e38958c3b"
+    },
+    {
+      "path": "tests/NativeHost.cpp",
+      "bytes": 355,
+      "sha256": "2262b181f63acb1e065f65cb87dcd0af2e2ac88928736697335dd96cbccd4a9a"
+    },
+    {
+      "path": "tests/PackageVortex.cjs",
+      "bytes": 1976,
+      "sha256": "cc57e5f8eb18b4089c33105108b3eb4c4676adb4af725aa5aadb685fca8439ab"
+    },
+    {
+      "path": "tests/run.ps1",
+      "bytes": 1189,
+      "sha256": "3e4d12a3126defa16f5181c34495f3564b0f8bc29595eab4b3a2332d88f2a7db"
+    },
+    {
+      "path": "tests/Tests.cs",
+      "bytes": 10084,
+      "sha256": "24a675cce8491dd70266c1b28fa436c503001dd26634258843cb0f89c57dda13"
+    },
+    {
+      "path": "tools/Package.ps1",
+      "bytes": 5917,
+      "sha256": "fd881f6a3699c0a3a67c787c3442b5e34277321b4fb4cab9b95159291264eb8b"
+    },
+    {
+      "path": "vendor/minhook/include/MinHook.h",
+      "bytes": 7530,
+      "sha256": "62dff05e63155c6bf8135c36a0d79dedbdcaaede9da26fe38daf0bea34323e38"
+    },
+    {
+      "path": "vendor/minhook/LICENSE.txt",
+      "bytes": 4365,
+      "sha256": "d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8"
+    },
+    {
+      "path": "vendor/minhook/src/buffer.c",
+      "bytes": 9814,
+      "sha256": "0ab484d7870c3a8e7a3a1ee61e2070072cf445ed85b619d4c4207fed34356d99"
+    },
+    {
+      "path": "vendor/minhook/src/buffer.h",
+      "bytes": 1820,
+      "sha256": "9769702bd625249e59a19ede05c84365fcc7707e1fa0e5df08df42227cee13e3"
+    },
+    {
+      "path": "vendor/minhook/src/hde/hde32.c",
+      "bytes": 9318,
+      "sha256": "5da4941e9044f7b325c7f952b5840089e365f374740b7fe7318805d08c0d6c32"
+    },
+    {
+      "path": "vendor/minhook/src/hde/hde32.h",
+      "bytes": 2450,
+      "sha256": "5132de5be8ac7a9d054420f5caef0fb01437faa892f03b3cdc77f795973bf15a"
+    },
+    {
+      "path": "vendor/minhook/src/hde/hde64.c",
+      "bytes": 9507,
+      "sha256": "824eafa315322e6da105a7ce4ec1fc0e0adeee0106d32152fbb0b59e709bd15c"
+    },
+    {
+      "path": "vendor/minhook/src/hde/hde64.h",
+      "bytes": 2602,
+      "sha256": "e99aa4997bda14b534c614c3d8cb78a72c4aca91a1212c8b03ec605d1d75e36e"
+    },
+    {
+      "path": "vendor/minhook/src/hde/pstdint.h",
+      "bytes": 1662,
+      "sha256": "604d1cdf45c5a95bc9cf1bbf39ca05ef83013541101d34971c5cd7577e3d5247"
+    },
+    {
+      "path": "vendor/minhook/src/hde/table32.h",
+      "bytes": 3508,
+      "sha256": "43bf687a9fff071b5f46070db4d36c846f8e069cdc57485ee897c499aacdde23"
+    },
+    {
+      "path": "vendor/minhook/src/hde/table64.h",
+      "bytes": 3577,
+      "sha256": "b774446d2f110ce954fb0a710f4693c5562ddbd8d56fe84106f2ee80db8b50a2"
+    },
+    {
+      "path": "vendor/minhook/src/hook.c",
+      "bytes": 26626,
+      "sha256": "edcce4c81985d7dd5b73feae96d6498c8f749b1bca4c3d2d9926ea9a17a84755"
+    },
+    {
+      "path": "vendor/minhook/src/trampoline.c",
+      "bytes": 10718,
+      "sha256": "f13a169f803ff5a8e45c58ce668b4377a9878c0fc4452369b8a1325065186b2b"
+    },
+    {
+      "path": "vendor/minhook/src/trampoline.h",
+      "bytes": 3759,
+      "sha256": "53ed9934492320617a27bfd952ffe7f5b7a4a1d09963d4512447082fe7b727b4"
+    }
+  ]
+}

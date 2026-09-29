@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "RecognizeReturnToTitan": true,
+  "TrustedTexModPath": "",
+  "Priority": {},
+  "Disabled": [],
+  "PackageFolders": ["TexMod Packages", "TexturePacks", "Mods"],
+  "ShowTexMod": false,
+  "UiDelayMs": 250
+}
