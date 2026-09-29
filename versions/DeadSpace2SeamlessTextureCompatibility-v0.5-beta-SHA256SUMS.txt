@@ -1,0 +1,2 @@
+b310cdf65adfd3972e5d95912b9809f465f87ae36130f65115421a8cc1caadee  DeadSpace2SeamlessTextureCompatibility-v0.5-beta.zip
+54a828cfae43c2cd19cb5ea77bcfacc1dd80fdf19e0656b58032159165eb05f5  DeadSpace2SeamlessTextureCompatibility-v0.5-beta-source.zip

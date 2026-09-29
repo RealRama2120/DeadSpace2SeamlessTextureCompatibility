@@ -1,0 +1,3 @@
+49bd41e5c062c845aa5f353f919a5f2979ad29fd663fa08f7cc1a3eb42991f8b  DeadSpace2SeamlessTextureCompatibility-0.1.0-candidate-manual.zip
+49bd41e5c062c845aa5f353f919a5f2979ad29fd663fa08f7cc1a3eb42991f8b  DeadSpace2SeamlessTextureCompatibility-0.1.0-candidate-vortex.zip
+03d8b1d5d619115b00e068bf4b27c2f23ad977298ca689cc1fd3243241f2daba  DeadSpace2SeamlessTextureCompatibility-0.1.0-candidate-source.zip
