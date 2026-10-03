@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/social-preview.png" width="480" alt="Dead 2 Seamless Texture Loading">
+</p>
+
 # Dead Space 2 Seamless Texture Compatibility
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
